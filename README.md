@@ -1,5 +1,5 @@
 # novara-cluster-analysis
-Cluster analysis of Earle Brown's composition *Novara* (1962) for mixed octet. Clusters the twenty events based on normalized pitch class distribution (profile) using k-means algorithm.
+Cluster analysis of Earle Brown's composition *Novara* (1962) for mixed octet. Clusters the twenty events based on normalized pitch class distribution (profile) using k-means algorithm. Link to composition on Earle Brown Music Foundation website: http://earle-brown.org/works/view/28
 
 Three versions:
 
